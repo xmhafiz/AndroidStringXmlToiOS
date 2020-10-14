@@ -1,8 +1,8 @@
-### Xml String Converter (strings.xml to Localizable.string)
+### Android strings.xml to iOS Localizable.string
 
 To convert Android `strings.xml` Into iOS `Localizable.string` like a boss, without copy-pasting just because of having different format.
 
-Note: only apply to valid Android strings.xml format
+Note: only apply to valid format of Android strings.xml file.
 
 ### HowTo
 
