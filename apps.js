@@ -32,7 +32,7 @@ function writeLocalizeFile(arr) {
     // create a content
     var content = '';
     arr.forEach(el => {
-        content += `"${el.key}"=` + `"${el.value}"\n`;
+        content += `"${el.key}"=` + `"${el.value}";\n`;
     });
     // content to be written into file
     console.log(content);

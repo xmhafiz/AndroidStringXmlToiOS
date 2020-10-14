@@ -26,8 +26,8 @@ This is the file named as `strings.xml` will be coverted..
 into `Localizable.string`
 
 ```string
-"btn_login"="Login"
-"welcome_message"="Hello World!"
-"btn_save"="Save"
-"btn_register"="Register"
+"btn_login"="Login";
+"welcome_message"="Hello World!";
+"btn_save"="Save";
+"btn_register"="Register";
 ```
