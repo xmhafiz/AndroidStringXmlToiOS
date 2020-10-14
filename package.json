@@ -1,0 +1,15 @@
+{
+  "name": "xmlstringconverter",
+  "version": "1.0.0",
+  "description": "Parse strings xml file into plain key-value file",
+  "main": "apps.js",
+  "dependencies": {
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
